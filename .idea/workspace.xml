@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="435ef4eb-8f0a-4fe9-99af-75852811c2ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10.1/10.1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10.1/Kak_sozdat_i_zapustit_potok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10.1/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_2/Potoki_na_classah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_3/Problemy_mnogopotochnogo_programmirovaniya_blokirivki_i_obrabotka_oshybok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_3/Race_condition_solved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_3/Vzaimo_block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_4/Globalnaya_blokirovka_interpritatora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_4/json/Thread_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_4/json/Threads_count_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_4/json/file1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_4/json/file2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_4/json/file3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_4/json/file4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_4/json/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_4/json/util_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_5/Harder_obrabotka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_5/Obrabotka_oshibok_v_potokah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_6/Ochered_v_potokah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_7/Image/img_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_7/Mnogoprocassnoye_programmirovanie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_7/Mnogoprocessnoe_programmirovanie/Image/img_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_7/Mnogoprocessnoe_programmirovanie/Practica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/10_7/thread_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_10_Multipotochnost'/Practic/1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_11_Standartnye_i_ storonnie_biblioteki/11_3/Introspekciya.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_11_Standartnye_i_ storonnie_biblioteki/Practica/11_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_11_Standartnye_i_ storonnie_biblioteki/Practica/Make_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_11_Standartnye_i_ storonnie_biblioteki/Practica/Waltographui.ttf.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_11_Standartnye_i_ storonnie_biblioteki/Practica/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_11_Standartnye_i_ storonnie_biblioteki/Practica/sun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_12_Podderzka_cikla_razrabotki/12_1/Unit_razrabotka.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_12_Podderzka_cikla_razrabotki/12_1/calk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_12_Podderzka_cikla_razrabotki/12_2/Unit_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_12_Podderzka_cikla_razrabotki/12_2/calk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_12_Podderzka_cikla_razrabotki/12_3/Metody_UNIT_testirovaniya.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_12_Podderzka_cikla_razrabotki/12_3/calk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_8_Isklycheniya/Oshybki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_8_Isklycheniya/Slojnye_momenty_i_isklycheniya_v_steke_vyzov_funkcyi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_8_Isklycheniya/Sozdaniye_isklucheniy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_8_Isklycheniya/Try_and_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Decoratory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Decoratory_Part_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Generatory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Iteratory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Practica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Sozdaniye_funciy_na_letu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Spiskovye_ slovarnye sborki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Vvedenie_ v_FP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Webinar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/generatornye_sborki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/large_file.txt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2kQAn63KymJ94fyaExe9WUMySvZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in Metody_UNIT_testirovaniya.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Unit_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_threads.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.1.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decoratory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decoratory_Part_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Generatory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Globalnaya_blokirovka_interpritatora.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Harder_obrabotka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Introspekciya.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Iteratory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kak_sozdat_i_zapustit_potok.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Make_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mnogoprocassnoye_programmirovanie.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Obrabotka_oshibok_v_potokah.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ochered_v_potokah.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Potoki_na_classah.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Problemy_mnogopotochnogo_programmirovaniya_blokirivki_i_obrabotka_oshybok.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Race_condition_solved.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sozdaniye_funciy_na_letu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Spiskovye_ slovarnye sborki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Thread_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Threads_count_new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unit_razrabotka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vvedenie_ v_FP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vzaimo_block.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Webinar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generatornye_sborki.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_10_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.util.executor&quot;: &quot;Run&quot;,
+    &quot;Python.util_new.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zanan/SSS/Python/Urban/Module_8_20/pythonProject1/Module_12_Podderzka_cikla_razrabotki/12_2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zanan\SSS\Python\Urban\Module_8_20\pythonProject1\Module_12_Podderzka_cikla_razrabotki\12_2" />
+      <recent name="C:\Users\zanan\SSS\Python\Urban\Module_8_20\pythonProject1\Module_10_Multipotochnost'\10_7\Mnogoprocessnoe_programmirovanie" />
+      <recent name="C:\Users\zanan\SSS\Python\Urban\Module_8_20\pythonProject1\Module_9_Instrumenty_funkcionalnogo_programmirovaniya" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zanan\SSS\Python\Urban\Module_8_20\pythonProject1\Module_11_Standartnye_i_ storonnie_biblioteki\Practica" />
+      <recent name="C:\Users\zanan\SSS\Python\Urban\Module_8_20\pythonProject1\Module_10_Multipotochnost'\10.1" />
+      <recent name="C:\Users\zanan\SSS\Python\Urban\Module_8_20\pythonProject1\Module_10_Multipotochnost'\10_7\Image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="435ef4eb-8f0a-4fe9-99af-75852811c2ed" name="Changes" comment="" />
+      <created>1723205591036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723205591036</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Sozdaniye_funciy_na_letu.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Iteratory.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Module_9_Instrumenty_funkcionalnogo_programmirovaniya/Generatory.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
